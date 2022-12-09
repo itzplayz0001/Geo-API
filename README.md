@@ -1,7 +1,8 @@
 1) Phone Number Selection
 Set an ID for the 'tbody' where id="myTable"
 <tbody id="myTable">   
-```js
+
+```
 let arr = [];
 let places = document.getElementById('myTable').children;
 function myFunction(place) {

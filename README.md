@@ -1,5 +1,5 @@
 # 1) Phone Number Selection<br>
-Set an ID for the 'tbody' where id="myTable"
+Set an ID for the 'tbody' where id="myTable"<br>
 <tbody id="myTable">   
 
 ```

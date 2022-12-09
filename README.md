@@ -1,4 +1,4 @@
-1) Phone Number Selection<br>
+# 1) Phone Number Selection<br>
 Set an ID for the 'tbody' where id="myTable"
 <tbody id="myTable">   
 
